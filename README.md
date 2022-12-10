@@ -9,12 +9,12 @@ Neste projeto chamado "Calculadora Digital" proposto pelo meu professor criei um
 ## Desafios propostos
 Crie uma calculadora digital que execute as principais operaçoes matematicas, crie uma pagina html e faça uma estilização da froma como preferir
 
-##Resultado
+# Resultado
 
 ![calculadora - Google Chrome 10_12_2022 10_56_13](https://user-images.githubusercontent.com/110677262/206858963-713e7817-f5b0-4dad-9e29-b96fb0eeee52.png)
 
 
-## Linguagens Utilizadas
+# Linguagens Utilizadas
 para a criaçâo da calculadora utilizei html,css e Java Scrit
 
 ## Como Utilizar?
